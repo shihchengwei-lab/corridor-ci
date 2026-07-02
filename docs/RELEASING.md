@@ -7,3 +7,5 @@ Use semver tags for releases.
 3. Keep `README.md` and `examples/workflow.yml` on the same major tag.
 
 The tag consistency is enforced by the test suite.
+
+<!-- corridor e2e smoke line -->
