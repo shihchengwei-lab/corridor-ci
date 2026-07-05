@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **This repository is archived.** Development continues in the
+> [coding-agent-guardrails](https://github.com/shihchengwei-lab/coding-agent-guardrails)
+> toolkit, where this tool lives at
+> [`corridor-ci/`](https://github.com/shihchengwei-lab/coding-agent-guardrails/tree/main/corridor-ci)
+> with its full commit history. Everything here stays available read-only.
+> Workflows pinned to `corridor-ci@v10` from this repository keep working.
+
 # Corridor CI
 
 **First-glance PR triage before deep review.**
